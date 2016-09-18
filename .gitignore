@@ -1,0 +1,8 @@
+.idea
+.dev
+npm-debug.log
+node_modules
+.DS_Store
+coverage
+*-compiled.js
+*.js.map
